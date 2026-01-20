@@ -9,7 +9,7 @@ https://private-user-images.githubusercontent.com/64572787/537805139-aef01acd-53
 - Every time finger lands it's a \<MOUSE_LEFT\> press and release.
 - \<DELETE\> is different: \<BACKSPACE\> is the same
 ### There is no guarantee this will work in your environment (neither flawlessly nor at all)<br>DO NOT RUN IF YOU CAN'T EXIT AND REBOOT SESSION!  
-### MOUSE IS A BITCH AND HALF
+### MOUSE IS A BITCH-AND-A-HALF
 #### …just in case, these are friends to have in times of need:
 ```zsh
 reset
