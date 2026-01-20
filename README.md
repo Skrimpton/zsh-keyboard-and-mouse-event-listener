@@ -1,7 +1,7 @@
 # This is a hob-gobbled together event-listener for ZSH (with many functions not doing anything 
 
 ### written by what is still an enthusiastic, but full-on novice and moron
-##### assisted by friendly dystopian nightmare and frequent confident liar: Copilot
+##### assisted by the very helpful dystopian nightmare and frequent confident liar: Copilot
 ## Use it to build VIM like GUI's, or catch presses without calling a new private buffer. The options are limited, but some!
 #### There is no guarantee this will work in your environment (neither flawlessly nor at all), so these are friends to have in times of need:
 ```zsh
