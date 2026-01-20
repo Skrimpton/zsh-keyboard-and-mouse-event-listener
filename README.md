@@ -1,5 +1,5 @@
 # This is a hob-gobbled together event-listener for ZSH (with many functions not doing anything 
-
+https://private-user-images.githubusercontent.com/64572787/537805139-aef01acd-53b5-4702-86c7-2ceb6374db06.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg4NzU3OTEsIm5iZiI6MTc2ODg3NTQ5MSwicGF0aCI6Ii82NDU3Mjc4Ny81Mzc4MDUxMzktYWVmMDFhY2QtNTNiNS00NzAyLTg2YzctMmNlYjYzNzRkYjA2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIwVDAyMTgxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUwZjlhZWQ0M2FjODE4MGYxYTRjZDVjODlmOTBjYzE1ZmU4OWY0OWI2NDhhZWJlOTliYWUyYzgyMTdiOWRiMDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IyvmgrPM49aXVqvWKFMd87hAdT3FqiP2bQQWcFPeX68
 ###### written by what is still an enthusiastic, but full-on novice and moron<br>assisted by the very helpful dystopian nightmare and frequent confident liar: Copilot
 ## Use it to build VIM like GUI's, or catch presses without calling a new private buffer. The options are limited, but some!
 ##### Tested on: Konsole v23.08.5 - zsh 5.9 (x86_64-pc-linux-gnu) | Termux 0.118.3 - zsh 5.9 (aarch64-unknown-linux-android): 
