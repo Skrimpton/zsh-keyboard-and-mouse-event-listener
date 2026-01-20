@@ -1,9 +1,15 @@
 # This is a hob-gobbled together event-listener for ZSH (with many functions not doing anything 
 
-### written by what is still an enthusiastic, but full-on novice and moron
-##### assisted by the very helpful dystopian nightmare and frequent confident liar: Copilot
+###### written by what is still an enthusiastic, but full-on novice and moron<br>assisted by the very helpful dystopian nightmare and frequent confident liar: Copilot
 ## Use it to build VIM like GUI's, or catch presses without calling a new private buffer. The options are limited, but some!
-#### There is no guarantee this will work in your environment (neither flawlessly nor at all), so these are friends to have in times of need:
+##### Tested on: Konsole v23.08.5 - zsh 5.9 (x86_64-pc-linux-gnu) | Termux 0.118.3 - zsh 5.9 (aarch64-unknown-linux-android): 
+#### Termux notes: 
+- Drag doesn't work at all.
+- Keys, scroll and left "click" are caught. 
+- Every time finger lands it's a press and release.
+- \<DELETE\> is different: \<BACKSPACE\> is the same
+### There is no guarantee this will work in your environment (neither flawlessly nor at all)<br>DO NOT RUN IF YOU CAN'T EXIT AND REBOOT SESSION!  
+#### …just in case, these are friends to have in times of need:
 ```zsh
 reset
 ```
