@@ -79,27 +79,6 @@ fg_HL=$'\033[38;5;255m'
 #   prompt_sep ""
 # )
 
-#  LIST DATA
-
-typeset -A x_LIST_ITEMS=(
-  1 "This is the first item. There are many like it, but this one is mine. It is a very long item that goes on for a while, but if you don't give up on the line, the line promises: it's never gonna give you up, never gonna let you down, never gonna run around and desert you"
-  2 "Second item"
-  3 "Third item"
-  4 "Fourth item"
-  5 "item0"
-  6 "item1"
-  7 "item2"
-  8 "item3"
-  9 "item4"
-  10 "item5"
-  11 "item6"
-  12 "item7"
-  13 "item8"
-  14 "item9"
-)
-typeset -a x_LIST_ORDER=( 1 2 3 4 5 6 7 8 9 10 11 12 13 14 )
-typeset -A x_SELECTED_SET
-
 #  INIT, EXIT & TRAP
 xCleanup() {
   clear
