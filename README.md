@@ -278,7 +278,7 @@ xHandleEvent() { local raw="$1" e="$2"
   esac
 
   case "$e" in
-    CTRL_C)  xTrap INT ;;
+    CTRL_C|CHAR:q)  xTrap INT ;;
     KEY_UP*) xPrint atline 2 "${(q)raw} → <xHandleEvent:KEY-UP> $e" ;;
   esac
 }
@@ -563,5 +563,4 @@ xMain() {
 
 xMain "$@"
 # EOF
-
 ```
