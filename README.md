@@ -8,8 +8,13 @@ https://private-user-images.githubusercontent.com/64572787/537805139-aef01acd-53
 - Keys, scroll and left "click" are caught. 
 - Every time finger lands it's a \<MOUSE_LEFT\> press and release.
 - \<DELETE\> is different: \<BACKSPACE\> is the same
+### Other notes:
+- MOUSE EVENTS CAN BITE YOU IN THE ASS OUTSIDE OF PRIVATE BUFFER.
+- PRIVATE BUFFER CAN BITE YOU IN THE ASS JUST CAUSE IT FEELS LIKE IT
+- This messes with `stty`, then resets it (…at least makes an honest attempt at doing so): Keep this in mind if you have made changes to `stty`.
+- Kill -9 WILL MAKE CLEAN UP IMPOSSIBLE: USE `reset` if you have to do that when in a "new window" (private buffer)
 ### There is no guarantee this will work in your environment (neither flawlessly nor at all)<br>DO NOT RUN IF YOU CAN'T EXIT AND REBOOT SESSION!  
-### MOUSE IS A BITCH-AND-A-HALF
+
 #### …just in case, these are friends to have in times of need:
 ```zsh
 reset
